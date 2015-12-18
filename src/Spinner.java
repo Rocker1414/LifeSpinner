@@ -5,7 +5,7 @@
 // in a GUI
 
 public class Spinner {
-	public static void main(String[] args){
-		System.out.println("test");
+	public static void main(String[] args) {
+		RandSpin rando = new RandSpin();
 	}
 }
