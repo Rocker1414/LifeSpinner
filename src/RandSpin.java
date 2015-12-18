@@ -21,7 +21,7 @@ public class RandSpin {
 			return "red";
 		}
 		if (num == 3 || num == 8) {
-			return "purple";
+			return "magenta";
 		}
 		if (num == 4 || num == 9) {
 			return "green";
